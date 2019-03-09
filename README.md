@@ -1,2 +1,2 @@
 # data-structure-and-algorithm-practice
-#from udamy course
+from udemy.com course
